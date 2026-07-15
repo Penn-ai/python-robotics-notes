@@ -53,6 +53,10 @@ Basic Git workflow notes, including:
 - `git commit`
 - `git push`
 
+
+### Day 8
+Today I learned the basic Git workflow: add, commit, and push.
 ## Future Plan
 
 I will continue learning ROS2, Nav2, Gazebo, and robotics simulation.
+
