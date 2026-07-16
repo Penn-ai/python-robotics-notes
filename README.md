@@ -19,10 +19,11 @@ I am building this repository as part of my preparation for future ROS2, robot s
 ```text
 python-robotics-notes/
 ├── README.md
-├── 01_linux_basics/
+├── 01_linux_basics/$
 ├── 02_python_basics/
 ├── 03_robotics_practice/
 └── 04_git_notes/
+```
 
 ## Topics Covered
 
